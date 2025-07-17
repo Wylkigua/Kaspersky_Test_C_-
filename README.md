@@ -1,4 +1,5 @@
 
+![Image alt](https://github.com/Wylkigua/Kaspersky_Test_C_-/raw/main/test_task.jpg)
 
 ## Build
   mkdir build && cd build
