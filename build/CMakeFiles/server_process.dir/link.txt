@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/server_process.dir/server_process.cpp.o CMakeFiles/server_process.dir/common/socket.cpp.o CMakeFiles/server_process.dir/common/queue.cpp.o CMakeFiles/server_process.dir/common/http.cpp.o -o server_process 

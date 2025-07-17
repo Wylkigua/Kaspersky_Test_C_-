@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/server_display.dir/server_display.cpp.o CMakeFiles/server_display.dir/common/socket.cpp.o CMakeFiles/server_display.dir/common/http.cpp.o -o server_display 

@@ -1,0 +1,5 @@
+/home/wilkygua/school_21/CPP/project/build/CMakeFiles/server_process.dir
+/home/wilkygua/school_21/CPP/project/build/CMakeFiles/server_display.dir
+/home/wilkygua/school_21/CPP/project/build/CMakeFiles/client.dir
+/home/wilkygua/school_21/CPP/project/build/CMakeFiles/edit_cache.dir
+/home/wilkygua/school_21/CPP/project/build/CMakeFiles/rebuild_cache.dir
