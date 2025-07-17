@@ -1,13 +1,13 @@
 
 
-Сборка проекта
+## Build
   mkdir build && cd build
   cmake .. && make
 
-Usage
+## Usage
   ./server_display [server_ip] [server_port] [connect_ip] [connect_port]
 
-Argument
+## Argument
   server_ip: IP address to bind (default: 127.0.0.1)
 
   server_port: Port to listen on (default: 8176)
